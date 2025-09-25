@@ -1,0 +1,46 @@
+# =========================
+# Archivos de NetBeans
+# =========================
+nbproject/private/
+build/
+dist/
+nbbuild/
+nbdist/
+nbactions.xml
+nb-configuration.xml
+
+# =========================
+# Archivos de Ant
+# =========================
+build.xml~          # copias temporales
+*.jar
+*.war
+*.ear
+
+# =========================
+# Archivos Java compilados
+# =========================
+*.class
+*.log
+
+# =========================
+# Configuración IDE
+# =========================
+*.iml
+*.ipr
+*.iws
+.idea/
+*.swp
+
+# =========================
+# Sistema operativo
+# =========================
+.DS_Store
+Thumbs.db
+
+# =========================
+# Archivos temporales
+# =========================
+*.bak
+*.tmp
+*~
